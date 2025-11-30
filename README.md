@@ -1,5 +1,5 @@
 # ToblerRobot-Arm-with-Custom-Firmware
-<img width="1024" height="747" alt="image" src="[https://github.com/user-attachments/assets/5e556e20-8fe9-4986-92f3-9eea95d9da0d](https://github.com/KANCHANAKALANAPERERA/ToblerRobot-Arm-with-Custom-Firmware/blob/main/DSC_0513.JPG?raw=true)" />
+<img width="1024" height="747" alt="image" src="[https://github.com/KANCHANAKALANAPERERA/ToblerRobot-Arm-with-Custom-Firmware/blob/main/DSC_0513.JPG?raw=true]" />
 
 # ToblerArm – 3D Printed Robot Arm (Zero to Advanced Guide) 🤖
 
