@@ -1,5 +1,5 @@
 # ToblerRobot-Arm-with-Custom-Firmware
-
+<img width="1024" height="747" alt="image" src="https://github.com/user-attachments/assets/5e556e20-8fe9-4986-92f3-9eea95d9da0d" />
 # ToblerArm – 3D Printed Robot Arm (Zero to Advanced Guide) 🤖
 
 **ToblerArm** is a 3D-printed robot arm based on the classic Tobler-style design, powered by:
@@ -492,7 +492,8 @@ Permission is hereby granted, free of charge, to any person obtaining a copy
 Credits
 	•	Original mechanical inspiration: Florin Tobler – RobotArm (2016)
 	•	Firmware integration, structure, and documentation for ToblerArm:
-N. K. K. Perera (@kalanakanchana)
+N. K. K. Perera (@KANCHANAKALANAPERERA
+)
 
 If you build or modify ToblerArm, feel free to:
 	•	open issues,
